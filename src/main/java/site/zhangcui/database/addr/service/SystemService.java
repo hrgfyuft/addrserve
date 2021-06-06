@@ -1,4 +1,7 @@
 package site.zhangcui.database.addr.service;
 
-public class SystemService {
+import site.zhangcui.database.addr.entity.IpInfo;
+
+public interface SystemService {
+    int insert(IpInfo ipInfo);
 }
