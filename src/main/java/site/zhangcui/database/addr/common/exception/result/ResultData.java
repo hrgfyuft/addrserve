@@ -1,4 +1,4 @@
-package site.zhangcui.database.addr.exception.result;
+package site.zhangcui.database.addr.common.exception.result;
 
 import java.util.HashMap;
 import java.util.List;

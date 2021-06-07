@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import site.zhangcui.database.addr.common.enums.ExceptionEnum;
-import site.zhangcui.database.addr.exception.NoPermissionException;
-import site.zhangcui.database.addr.exception.result.ResponseMessage;
-import site.zhangcui.database.addr.exception.result.ResponseResult;
+import site.zhangcui.database.addr.common.exception.NoPermissionException;
+import site.zhangcui.database.addr.common.exception.result.ResponseMessage;
+import site.zhangcui.database.addr.common.exception.result.ResponseResult;
 
 
 @RestController

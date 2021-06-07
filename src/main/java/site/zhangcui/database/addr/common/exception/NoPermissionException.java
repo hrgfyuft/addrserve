@@ -1,4 +1,4 @@
-package site.zhangcui.database.addr.exception;
+package site.zhangcui.database.addr.common.exception;
 
 /**
  * @author 97664

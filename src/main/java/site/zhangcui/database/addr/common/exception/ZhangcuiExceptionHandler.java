@@ -1,4 +1,4 @@
-package site.zhangcui.database.addr.exception;
+package site.zhangcui.database.addr.common.exception;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -10,7 +10,7 @@ import org.springframework.web.bind.MissingServletRequestParameterException;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
-import site.zhangcui.database.addr.exception.result.ResponseResult;
+import site.zhangcui.database.addr.common.exception.result.ResponseResult;
 
 
 @CrossOrigin
