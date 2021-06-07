@@ -1,4 +1,2 @@
-2021-06-07 22:55:28,207 INFO (StartupInfoLogger.java:55)- Starting AddrApplication using Java 1.8.0_261 on DESKTOP-T8PVIPB with PID 9400 (G:\CODE\zhangcui\addrserve\target\classes started by 97664 in G:\CODE\zhangcui\addrserve)
-2021-06-07 22:55:28,209 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.0, Spring v5.3.7
-2021-06-07 22:55:28,209 INFO (SpringApplication.java:667)- The following profiles are active: local
-2021-06-07 22:55:30,433 INFO (StartupInfoLogger.java:61)- Started AddrApplication in 2.566 seconds (JVM running for 3.396)
+2021-06-07 23:00:16,994 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: 
+2021-06-07 23:00:17,011 DEBUG (BaseJdbcLogger.java:137)- <==      Total: 1
