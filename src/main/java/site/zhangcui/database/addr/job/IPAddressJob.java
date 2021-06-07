@@ -24,7 +24,7 @@ public class IPAddressJob {
     @Scheduled(cron = "0 0 0/1 1/1 * ? ")
     public void processor () {
 
-/*
+
         System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://2021.ip138.com");
@@ -36,7 +36,7 @@ public class IPAddressJob {
         ipInfo.setSaveTime(new Date());
         service.insert(ipInfo);
         driver.quit();
-*/
+
 
         log.info( "1");
     }
