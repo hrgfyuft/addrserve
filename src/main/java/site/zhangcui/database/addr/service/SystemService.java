@@ -1,6 +1,6 @@
 package site.zhangcui.database.addr.service;
 
-import site.zhangcui.database.addr.entity.IpInfo;
+import site.zhangcui.database.addr.pojo.entity.IpInfo;
 
 import java.util.List;
 

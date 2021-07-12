@@ -1,4 +1,4 @@
-package site.zhangcui.database.addr.entity;
+package site.zhangcui.database.addr.pojo.entity;
 
 import com.alibaba.fastjson.JSONObject;
 import com.baomidou.mybatisplus.annotation.IdType;

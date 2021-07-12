@@ -1,4 +1,4 @@
-package site.zhangcui.database.addr.entity;
+package site.zhangcui.database.addr.pojo.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;

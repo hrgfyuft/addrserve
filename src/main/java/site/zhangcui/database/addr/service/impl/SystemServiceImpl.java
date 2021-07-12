@@ -4,10 +4,9 @@ import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import site.zhangcui.database.addr.dao.IpInfoMapper;
-import site.zhangcui.database.addr.entity.IpInfo;
+import site.zhangcui.database.addr.pojo.entity.IpInfo;
 import site.zhangcui.database.addr.service.SystemService;
 
-import java.sql.Wrapper;
 import java.util.List;
 
 @Service("system")
